@@ -20,5 +20,6 @@ jobs:
       - checkout
 
       - run: echo "hello world"
+      - run: echo "automatically run build"
 
 
